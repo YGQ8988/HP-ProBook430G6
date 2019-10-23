@@ -1,0 +1,104 @@
+12:060  0:122  Found UEFI Acpi 2.0 RSDP at CFC0E014
+12:060  0:000  Saving ACPI tables from RSDP CFC0E014 to EFI\CLOVER\ACPI\origin ...
+12:060  0:000   CFC0E014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+12:060  0:000    (Xsdt: CFBBD188, Rsdt: CFBBD0C4)
+12:060  0:000    CFBBD188: 'XSDT', 'SLIC-BPC', Rev: 1, Len: 252
+12:060  0:000    CFBBD0C4: 'RSDT', 'SLIC-BPC', Rev: 1, Len: 144
+12:060  0:000    Tables in Xsdt: 27
+12:060  0:000    0. CFBF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+12:060  0:000        (Dsdt: CFBCB000, Facs: CFB3D000, XDsdt: CFBCB000, XFacs: 0)
+12:060  0:000        CFBCB000: 'DSDT', '8536', Rev: 2, Len: 155888
+12:065  0:005        CFB3D000: 'FACS', Ver: 2, Len: 64
+12:065  0:000    1. CFC0B000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+12:065  0:000    2. CFC09000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+12:065  0:000    3. CFC08000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+12:065  0:000    4. CFBFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 52866
+12:065  0:000    5. CFBFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+12:065  0:000    6. CFBF8000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+12:065  0:000    7. CFBF7000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+12:065  0:000    8. CFBF6000: 'WSMT', '8536', Rev: 1, Len: 40
+12:065  0:000    9. CFBF4000: 'HPET', '8536', Rev: 1, Len: 56
+12:065  0:000    10. CFBF3000: 'APIC', '8536', Rev: 3, Len: 300
+12:065  0:000    11. CFBF2000: 'MCFG', '8536', Rev: 1, Len: 60
+12:065  0:000    12. CFBCA000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+12:065  0:000    13. CFBC9000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2016
+12:065  0:000    14. CFBC5000: 'SSDT', 'DptfTabl', Rev: 2, Len: 15544
+12:065  0:000    15. CFBC1000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+12:065  0:000    16. CFBC0000: 'LPIT', 'CFL-ULT', Rev: 1, Len: 148
+12:065  0:000    17. CFBBF000: 'WSMT', 'CFL-ULT', Rev: 1, Len: 40
+12:065  0:000    18. CFB38000: 'UEFI', 'CFL-ULT', Rev: 1, Len: 66
+12:065  0:000    19. CFBBE000: 'OEML', 'CFL-ULT', Rev: 3, Len: 40
+12:065  0:000    20. CFC0D000: 'NHLT', 'WHL', Rev: 0, Len: 45
+12:065  0:000    21. CFBBB000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 7468
+12:065  0:000    22. CFBBA000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+12:065  0:000    23. CFBB9000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 82
+12:065  0:000    24. CFBB8000: 'FPDT', 'CFL-ULT', Rev: 1, Len: 68
+12:066  0:000    25. CFBB7000: 'BGRT', 'CFL-ULT', Rev: 1, Len: 56
+12:066  0:000    26. CFC0C000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761
+12:066  0:000    Tables in Rsdt: 27
+12:066  0:000    0. CFBF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+12:066  0:000        (Dsdt: CFBCB000, Facs: CFB3D000, XDsdt: CFBCB000, XFacs: 0)
+12:066  0:000        CFBCB000: 'DSDT', '8536', Rev: 2, Len: 155888
+12:071  0:005        CFB3D000: 'FACS', Ver: 2, Len: 64
+12:071  0:000    1. CFC0B000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+12:071  0:000    2. CFC09000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+12:071  0:000    3. CFC08000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+12:071  0:000    4. CFBFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 52866
+12:071  0:000    5. CFBFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+12:071  0:000    6. CFBF8000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+12:071  0:000    7. CFBF7000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+12:071  0:000    8. CFBF6000: 'WSMT', '8536', Rev: 1, Len: 40
+12:072  0:000    9. CFBF4000: 'HPET', '8536', Rev: 1, Len: 56
+12:072  0:000    10. CFBF3000: 'APIC', '8536', Rev: 3, Len: 300
+12:072  0:000    11. CFBF2000: 'MCFG', '8536', Rev: 1, Len: 60
+12:072  0:000    12. CFBCA000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+12:072  0:000    13. CFBC9000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2016
+12:072  0:000    14. CFBC5000: 'SSDT', 'DptfTabl', Rev: 2, Len: 15544
+12:072  0:000    15. CFBC1000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+12:072  0:000    16. CFBC0000: 'LPIT', 'CFL-ULT', Rev: 1, Len: 148
+12:072  0:000    17. CFBBF000: 'WSMT', 'CFL-ULT', Rev: 1, Len: 40
+12:072  0:000    18. CFB38000: 'UEFI', 'CFL-ULT', Rev: 1, Len: 66
+12:072  0:000    19. CFBBE000: 'OEML', 'CFL-ULT', Rev: 3, Len: 40
+12:072  0:000    20. CFC0D000: 'NHLT', 'WHL', Rev: 0, Len: 45
+12:072  0:000    21. CFBBB000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 7468
+12:072  0:000    22. CFBBA000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+12:072  0:000    23. CFBB9000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 82
+12:072  0:000    24. CFBB8000: 'FPDT', 'CFL-ULT', Rev: 1, Len: 68
+12:072  0:000    25. CFBB7000: 'BGRT', 'CFL-ULT', Rev: 1, Len: 56
+12:072  0:000    26. CFC0C000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761
+12:072  0:000  Found UEFI Acpi 1.0 RSDP at CFC0E000
+12:072  0:000  Printing ACPI tables from RSDP CFC0E000 ...
+12:072  0:000   CFC0E000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+12:072  0:000    (Rsdt: CFBBD000)
+12:072  0:000    CFBBD000: 'RSDT', 'SLIC-BPC', Rev: 1, Len: 144
+12:072  0:000    Tables in Rsdt: 27
+12:072  0:000    0. CFBF5000: 'FACP', 'SLIC-BPC', Rev: 6, Len: 276
+12:072  0:000        (Dsdt: CFBCB000, Facs: CFB3D000, XDsdt: CFBCB000, XFacs: 0)
+12:072  0:000        CFBCB000: 'DSDT', '8536', Rev: 2, Len: 155888
+12:078  0:005        CFB3D000: 'FACS', Ver: 2, Len: 64
+12:078  0:000    1. CFC0B000: 'SSDT', 'ShmTable', Rev: 2, Len: 298
+12:078  0:000    2. CFC09000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 7007
+12:078  0:000    3. CFC08000: 'SSDT', 'CtdpB', Rev: 2, Len: 2511
+12:078  0:000    4. CFBFB000: 'SSDT', 'PLT_RTD3', Rev: 2, Len: 52866
+12:078  0:000    5. CFBFA000: 'RTMA', '_HBMART_', Rev: 1, Len: 158
+12:078  0:000    6. CFBF8000: 'SSDT', 'UcsiAcpi', Rev: 2, Len: 5493
+12:078  0:000    7. CFBF7000: 'SSDT', 'UcsiCntr', Rev: 2, Len: 251
+12:078  0:000    8. CFBF6000: 'WSMT', '8536', Rev: 1, Len: 40
+12:078  0:000    9. CFBF4000: 'HPET', '8536', Rev: 1, Len: 56
+12:078  0:000    10. CFBF3000: 'APIC', '8536', Rev: 3, Len: 300
+12:078  0:000    11. CFBF2000: 'MCFG', '8536', Rev: 1, Len: 60
+12:078  0:000    12. CFBCA000: 'SSDT', 'PtidDevc', Rev: 2, Len: 1862
+12:078  0:000    13. CFBC9000: 'SSDT', 'HP_XHC_P', Rev: 2, Len: 2016
+12:078  0:000    14. CFBC5000: 'SSDT', 'DptfTabl', Rev: 2, Len: 15544
+12:078  0:000    15. CFBC1000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12525
+12:078  0:000    16. CFBC0000: 'LPIT', 'CFL-ULT', Rev: 1, Len: 148
+12:078  0:000    17. CFBBF000: 'WSMT', 'CFL-ULT', Rev: 1, Len: 40
+12:078  0:000    18. CFB38000: 'UEFI', 'CFL-ULT', Rev: 1, Len: 66
+12:078  0:000    19. CFBBE000: 'OEML', 'CFL-ULT', Rev: 3, Len: 40
+12:078  0:000    20. CFC0D000: 'NHLT', 'WHL', Rev: 0, Len: 45
+12:078  0:000    21. CFBBB000: 'SSDT', 'HPINNBWL', Rev: 1, Len: 7468
+12:078  0:000    22. CFBBA000: 'SSDT', 'HPCONDEV', Rev: 1, Len: 50
+12:078  0:000    23. CFBB9000: 'SSDT', 'HPCAHWID', Rev: 1, Len: 82
+12:078  0:000    24. CFBB8000: 'FPDT', 'CFL-ULT', Rev: 1, Len: 68
+12:078  0:000    25. CFBB7000: 'BGRT', 'CFL-ULT', Rev: 1, Len: 56
+12:078  0:000    26. CFC0C000: 'SSDT', 'PwrCtlEv', Rev: 2, Len: 761
