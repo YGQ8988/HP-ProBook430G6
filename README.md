@@ -1,7 +1,7 @@
 # HP ProBook 430 G6 EFI for MacOS
 惠普 ProBook 430 G6 MacOS 10.14.5
 
-[ProBook 430 G6][https://github.com/YGQ8988/HP-ProBook430G6](https://github.com/YGQ8988/HP-ProBook430G6)
+[ProBook 430 G6](https://github.com/YGQ8988/HP-ProBook430G6)
 
 ### 主要配置信息
 
@@ -9,7 +9,7 @@
 | --------- | -------- | 
 | CPU    | Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz  |
 | 显卡     | Intel UHD Graphics 620     |   
-| 网卡     | DW1820A | 
+| 网卡     | 转接板 + BCM943224PCIEBT2 | 
 | 声卡 | ALC236    |
 | 硬盘 | Samsung EVO 860 250G(SSD)    |
 | 内存 | 8G    |
@@ -23,6 +23,8 @@
 2、我笔记本内置的镁光nvme SSD已卸载，此SSD不识别会导致进不去安装页面！请使用其他硬盘，卸载镁光硬盘！
 
 3、此电脑后续不会再更新，我准备10.14.6版本养老！如高版本安装问题出现问题我一概不负责
+
+4、最近退了1820A，更换了原生卡BCM943224PCIEBT2，WIFI，蓝牙，隔空均正常(隔空需另外修改SLE下驱动才生效)
 
 ### 工作的功能
 
