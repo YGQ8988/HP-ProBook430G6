@@ -509,7 +509,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>blackMojave</string>
+		<string>Catalina</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
