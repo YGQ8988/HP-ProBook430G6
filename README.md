@@ -1,6 +1,6 @@
 # HP ProBook 430 G6 EFI for MacOS Catalina&Mojave
 
-惠普 ProBook 430 G6 MacOS Catalina(101.5.6)&Mojave(10.14.5)
+惠普 ProBook 430 G6 MacOS Catalina(10.15.6)&Mojave(10.14.6)
 
 [ProBook 430 G6](https://github.com/YGQ8988/HP-ProBook430G6)
 
@@ -15,7 +15,7 @@
 | 硬盘 | Samsung EVO 860 250G(SSD)    |
 | 内存 | 8G    |
 | 显示器 | 1920x1080(13.3 英寸)    |
-|  MacOSVersion | 101.5.6/10.14.6 |
+|  MacOSVersion | 10.15.6/10.14.6 |
 
 ### 说明
 
