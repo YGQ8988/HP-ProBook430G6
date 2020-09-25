@@ -49,12 +49,11 @@
 
 10、小太阳亮度调节正常(fn+F3，F4调节)
 
-
 ### 效果图
 
 ![概览](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/10.15.6%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
-![WIFI]([10.15.6WIFI.png](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/10.15.6WIFI.png))
+![WIFI](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/10.15.6WIFI.png)
 
 ![以太网](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/%E4%BB%A5%E5%A4%AA%E7%BD%91.png)
 
