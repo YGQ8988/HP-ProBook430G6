@@ -1,5 +1,6 @@
-# HP ProBook 430 G6 EFI for MacOS
-惠普 ProBook 430 G6 MacOS 10.14.5
+# HP ProBook 430 G6 EFI for MacOS Catalina&Mojave
+
+惠普 ProBook 430 G6 MacOS Catalina(101.5.6)&Mojave(10.14.5)
 
 [ProBook 430 G6](https://github.com/YGQ8988/HP-ProBook430G6)
 
@@ -9,7 +10,7 @@
 | --------- | -------- |
 | CPU    | Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz  |
 | 显卡     | Intel UHD Graphics 620     |
-| 网卡     | Intel-3165AC（转接板 + BCM943224PCIEBT2以安装至3A台式机上使用） |
+| 网卡     | Intel-3165AC（转接板 + BCM943224PCIEBT2已安装至3A台式机上使用） |
 | 声卡 | ALC236    |
 | 硬盘 | Samsung EVO 860 250G(SSD)    |
 | 内存 | 8G    |
@@ -23,6 +24,8 @@
 2、我笔记本内置的镁光nvme SSD已卸载，此SSD不识别会导致进不去安装页面！请使用其他硬盘，卸载镁光硬盘！
 
 3、现在Intel网卡已经有了很大的进展，现已使用Intel网卡，原生卡加转接板已转移至3A台式机上使用
+
+注：[Intel网卡驱动教程参照](http://bbs.pcbeta.com/viewthread-1848662-1-1.html)
 
 ### 工作的功能
 
@@ -49,9 +52,9 @@
 
 ### 效果图
 
-![概览](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/%E6%A6%82%E8%A7%88.png)
+![概览](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/10.15.6%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
-![WIFI](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/WIFI.png)
+![WIFI]([10.15.6WIFI.png](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/10.15.6WIFI.png))
 
 ![以太网](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/%E4%BB%A5%E5%A4%AA%E7%BD%91.png)
 
@@ -65,7 +68,7 @@
 
 ![核显](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/%E6%A0%B8%E6%98%BE.png)
 
-![蓝牙](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/%E8%93%9D%E7%89%99.png)
+![蓝牙](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/10.15.6%E8%93%9D%E7%89%99.png)
 
 ![电源](https://github.com/YGQ8988/HP-ProBook430G6/blob/master/%E6%88%AA%E5%9B%BE%E6%AC%A3%E8%B5%8F/%E7%94%B5%E6%BA%90.png)
 
